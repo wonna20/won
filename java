@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.1",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/Ahpaim/Ahpaim/blob/main/Ahpaim.zip?raw=true" ,
+"Url":"https://github.com/wonna1/won/blob/main/Ab.zip?raw=true" ,
 "Changelog":"
 พบไฟล์ใหม่ (21/03/2021)
 สำหรับทำการทดสอบเท่านั้นไม่มีอะไรในก่อไผ่ 555
